@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to my ring!"
+title: "Welcome to our slide deck!"
 ---
 
 Caption here
